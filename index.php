@@ -1,6 +1,6 @@
 <?php
 
-    // Class create, a kind of object and behavior like object
+    // Class is a metadata/blueprint for objects and create objects
     class person{
         //Properties
         public $personName = "Mahmudul Hasan";
