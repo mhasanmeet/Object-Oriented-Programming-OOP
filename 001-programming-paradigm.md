@@ -1,6 +1,6 @@
 ## Programming Paradigm
 
-Programming paradigms are different ways or styles in which a program or programming language can be organized. Each paradigm consists of certain structures, features, and opinions [1]
+Programming paradigms are different pattern or styles in which a program or programming language can be organized. Each paradigm consists of certain structures, features, and opinions [1]
 
 Here is some programming paradigm, 
 

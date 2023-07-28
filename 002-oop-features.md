@@ -31,3 +31,10 @@ A group, body or a mass composed of many distinct parts or individuals no life t
 * Composition is ownership
 
 An object of one class owns objects of another class is responsible for it's lifetime
+
+## OOP advantages
+
+* Code more modular and reusable
+* Well organize code
+* Easier to debug 
+* Best for medium to large website project

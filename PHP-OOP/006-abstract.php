@@ -6,13 +6,11 @@
         abstract protected function calc($a, $b);
     }
 
-    class childClass{
+    class childClass extends parentClass{
         public function calc($c, $d){
-            echo "Hello";
+           return $c * $d;
         }
     }
 
     $test = new childClass();
     $test->calc(10, 20);
-
-?>
