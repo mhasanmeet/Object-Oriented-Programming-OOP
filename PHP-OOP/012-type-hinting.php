@@ -10,10 +10,12 @@
         array
         class
         object
+        NULL
+        Resource
     
     */
 
-    function sum(int $value){
+    function sum(int $value){ //type declaration
         echo $value + 20;
     }
 

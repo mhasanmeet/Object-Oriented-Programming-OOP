@@ -2,17 +2,17 @@
 
     class newClass{
         public function first(){
-            echo "Echo from class first <br>";
+            echo "Echo from first function <br>";
             return $this;
         }
 
         public function second(){
-            echo "Echo from class second <br>";
+            echo "Echo from second function <br>";
             return $this;
         }
 
         public function third(){
-            echo "Echo from class third <br>";
+            echo "Echo from third function <br>";
             return $this;
         }
     }
